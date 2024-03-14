@@ -10,8 +10,9 @@ Class Work from W24 for BIMM 132 at UC San Diego.
 
 - Class 7: [Introduction to machine learning for Bioinformatics](https://github.com/jchungz/bimm143_ttt/blob/main/class07/class07lab.pdf).
 
+- Class 8: [Unsupervised Learning Mini-Project](https://github.com/jchungz/bimm143_ttt/blob/main/class08/class-08.pdf).
 
-
+- Class 9: [Halloween Candy Mini-Project]().
 
 - Class 10: [Structural Bioinformatics (pt1)](https://github.com/jchungz/bimm143_ttt/blob/main/Class%2010/class-10-lab.pdf).
 
